@@ -2,6 +2,10 @@ Idea 1: www.todotic.com.mx
 Portal dedicado a servicios integrales de tecnologías de información y comunicación - en el portal encontraremos servicios de compra-venta, reparación y venta de accesorios para equipos de cómputo, así como también para dispositivos móviles como Smartphones y Tabletas.
 en el portal también habrá un apartado de noticias donde se actualizará la información más importante de los nuevos lanzamientos en tecnologías de información y comunicación.
 
+<<<<<<< HEAD
 Idea 2: Ferremateriales CMC
 Pagina web sobre venta de todo tipo de material de construcci—n y herramienta desde lo m‡s peque–o hasta lo mas grande.
 Ferreter’a y materiales.
+=======
+idea 2: prueba para agustin
+>>>>>>> 77a336d3220527ee6617035f1406fbd145fed025
