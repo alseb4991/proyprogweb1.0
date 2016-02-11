@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 1.- Alan Sebastian Fuentes Toscano
 2.- Jesús Olmedo Guido
 3.- Ejemplo
+=======
+﻿1.- Alan Sebastian Fuentes Toscano
+2.- Jesús Olmedo Guido
+3.- Edgar Moncada Rodriguez.
+>>>>>>> eb54150056baef82b15025fb8dc1c8b4b748e36e
