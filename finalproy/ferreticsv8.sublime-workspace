@@ -1,0 +1,333 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"A",
+				"AdminCarrito"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"I",
+				"IntegerField"
+			],
+			[
+				"te",
+				"TextField"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"Ad",
+				"AdminProducto"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"__",
+				"__unicode__"
+			],
+			[
+				"Re",
+				"Registrado"
+			],
+			[
+				"B",
+				"BASE_DIR"
+			],
+			[
+				"TEM",
+				"TEMPLATES"
+			],
+			[
+				"model",
+				"models"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/accounts/views.py",
+			"settings":
+			{
+				"buffer_size": 3254,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pac",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Alan/Desktop/finalproy/src",
+		"/C/Users/Alan/Desktop/finalproy/src/accounts",
+		"/C/Users/Alan/Desktop/finalproy/src/accounts/templates",
+		"/C/Users/Alan/Desktop/finalproy/src/ferreticsv8",
+		"/C/Users/Alan/Desktop/finalproy/src/home/templates/home",
+		"/C/Users/Alan/Desktop/finalproy/src/media",
+		"/C/Users/Alan/Desktop/finalproy/src/static",
+		"/C/Users/Alan/Desktop/finalproy/src/static/css",
+		"/C/Users/Alan/Desktop/finalproy/src/static/js",
+		"/C/Users/Alan/Desktop/finalproy/src/templates"
+	],
+	"file_history":
+	[
+		"/C/Users/Alan/Desktop/finalproy/src/accounts/views.py",
+		"/C/Users/Alan/Desktop/finalproy/src/accounts/urls.py",
+		"/C/Users/Alan/Desktop/finalproy/src/templates/base.html",
+		"/C/Users/Alan/Desktop/finalproy/src/templates/_messages.html",
+		"/C/Users/Alan/Desktop/finalproy/src/accounts/templates/accounts/index.html",
+		"/C/Users/Alan/Desktop/finalproy/src/static/css/main.css",
+		"/C/Users/Alan/Desktop/finalproy/src/ferreticsv8/settings.py",
+		"/C/Users/Alan/Desktop/finalproy/src/ferreticsv8/urls.py",
+		"/C/Users/Alan/Desktop/finalproy/src/accounts/templates/accounts/login.html",
+		"/C/Users/Alan/Desktop/finalproy/src/accounts/templates/accounts/registro.html",
+		"/C/Users/Alan/Desktop/finalproy/src/accounts/templates/accounts/gracias.html",
+		"/C/Users/Alan/Desktop/finalproy/src/accounts/forms.py",
+		"/C/Users/Alan/Desktop/finalproy/src/accounts/models.py",
+		"/C/Users/Alan/Desktop/finalproy/src/accounts/admin.py",
+		"/C/Users/Alan/Desktop/finalproy/src/home/templates/home/index.html",
+		"/C/Users/Alan/Desktop/finalproy/src/home/views.py",
+		"/D/ferretics/index.php",
+		"/D/ferretics/plantillas/marcadeagua.php",
+		"/C/Users/Alan/Desktop/finalproy/src/static/js/main.js",
+		"/D/ferretics/plantillas/navegador.php",
+		"/D/ferretics/plantillas/cabecera.php",
+		"/C/Users/Alan/Desktop/finalproy/src/home/urls.py",
+		"/C/Users/Alan/Desktop/proyectofinal/src/ferreteria/admin.py",
+		"/C/Users/Alan/Desktop/proyectofinal/src/templates/inicio.html",
+		"/C/Users/Alan/Desktop/proyectofinal/src/ferreticsv6/urls.py",
+		"/C/Users/Alan/Desktop/proyectofinal/src/ferreteria/views.py",
+		"/C/Users/Alan/Desktop/proyectofinal/src/ferreticsv6/settings.py",
+		"/C/Users/Alan/Desktop/proyectofinal/src/ferreteria/models.py",
+		"/C/Users/Alan/Desktop/ferretics/src/tienda/models.py",
+		"/C/Users/Alan/Desktop/ferretics/src/src/settings.py",
+		"/C/Users/Alan/Desktop/ferretics/src/templates/inicio.html",
+		"/C/Users/Alan/Desktop/ferretics/src/tienda/views.py",
+		"/C/Users/Alan/Desktop/ferretics/src/src/urls.py",
+		"/C/Users/Alan/Desktop/ferretics/src/tienda/admin.py",
+		"/D/ferretics/simulacionbd/productos.php",
+		"/C/Users/Alan/Desktop/probardjango/src/probardjango/settings.py",
+		"/C/Users/Alan/Desktop/probardjango/src/boletin/admin.py",
+		"/C/Users/Alan/Desktop/probardjango/src/boletin/models.py",
+		"/C/Users/Alan/Desktop/recetario/recetario/templates/lista_bebidas.html",
+		"/C/Users/Alan/Desktop/recetario/recetario/settings.py",
+		"/C/Users/Alan/Desktop/recetario/principal/admin.py",
+		"/C/Users/Alan/Desktop/recetario/recetario/urls.py",
+		"/C/Users/Alan/Desktop/recetario/principal/views.py",
+		"/C/Users/Alan/Desktop/recetario/principal/models.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"encod"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/accounts/views.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 675.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ferreticsv8.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
